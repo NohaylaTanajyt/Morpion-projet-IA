@@ -33,7 +33,7 @@ int min_AB(morpion jeu, int size, int alpha, int beta, int profondeur);
 
 void MinMax_AB(morpion jeu, int size, int *ii, int *jj, int alpha, int beta, int profondeur);
 
-int alphabeta(morpion jeu, int size, int alpha, int beta, int *ii, int *jj, int isMax);
+
 
 #endif
 
